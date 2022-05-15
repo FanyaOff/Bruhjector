@@ -7,11 +7,8 @@ This is my old project made a year ago when I just started learning C#
 
 * Dark & White Themes
 
-Dark:
-
 ![image](https://user-images.githubusercontent.com/73064979/168472976-bd970ea8-6315-4cb1-b45f-28fda538fb62.png)
 
-White:
 
 ![image](https://user-images.githubusercontent.com/73064979/168472993-3558d007-f5d5-49bb-a482-54a0f9e26481.png)
 
