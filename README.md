@@ -19,6 +19,6 @@ This is my old project made a year ago when I just started learning C#
 
 * Integrated VAC bypass
 
-Download in release
+**[Download](https://github.com/FanyaOff/Bruhjector/releases/tag/Injector)**
 
 
